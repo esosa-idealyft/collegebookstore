@@ -1,0 +1,17 @@
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\obj\Debug\net6.0-windows\CollegeBookstoreApp.vbproj.AssemblyReference.cache
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\obj\Debug\net6.0-windows\CollegeBookstoreApp.vbproj.GenerateResource.cache
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\obj\Debug\net6.0-windows\CollegeBookstoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\obj\Debug\net6.0-windows\CollegeBookstoreApp.AssemblyInfoInputs.cache
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\obj\Debug\net6.0-windows\CollegeBookstoreApp.AssemblyInfo.vb
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\obj\Debug\net6.0-windows\CollegeBookstoreApp.vbproj.CoreCompileInputs.cache
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\bin\Debug\net6.0-windows\CollegeBookstoreApp.exe
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\bin\Debug\net6.0-windows\CollegeBookstoreApp.deps.json
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\bin\Debug\net6.0-windows\CollegeBookstoreApp.runtimeconfig.json
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\bin\Debug\net6.0-windows\CollegeBookstoreApp.dll
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\bin\Debug\net6.0-windows\CollegeBookstoreApp.pdb
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\obj\Debug\net6.0-windows\CollegeBookstoreApp.dll
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\obj\Debug\net6.0-windows\refint\CollegeBookstoreApp.dll
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\obj\Debug\net6.0-windows\CollegeBookstoreApp.pdb
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\obj\Debug\net6.0-windows\CollegeBookstoreApp.genruntimeconfig.cache
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\obj\Debug\net6.0-windows\ref\CollegeBookstoreApp.dll
+C:\Users\icyes\Documents\Tutoring\CamG\CollegeBookstoreApp\obj\Debug\net6.0-windows\CollegeBookstoreApp.CollegeBookstore.resources
